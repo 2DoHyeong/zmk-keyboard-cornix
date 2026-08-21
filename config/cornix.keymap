@@ -185,6 +185,11 @@
             bindings = <&kp B>;
             key-positions = <32 33>;
         };
+
+        aaa {
+            bindings = <&kp SQT>;
+            key-positions = <22 21>;
+        };
     };
 
     keymap {
