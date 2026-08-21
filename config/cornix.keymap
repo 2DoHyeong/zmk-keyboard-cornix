@@ -180,6 +180,11 @@
             bindings = <&kp ESC>;
             key-positions = <1 0>;
         };
+
+        nm {
+            bindings = <&kp B>;
+            key-positions = <32 33>;
+        };
     };
 
     keymap {
