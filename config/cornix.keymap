@@ -190,6 +190,16 @@
             bindings = <&kp SQT>;
             key-positions = <22 21>;
         };
+
+        DD {
+            bindings = <&kp LEFT_BRACE>;
+            key-positions = <19 20 24>;
+        };
+
+        AAA {
+            bindings = <&kp RIGHT_BRACE>;
+            key-positions = <24 20 21>;
+        };
     };
 
     keymap {
